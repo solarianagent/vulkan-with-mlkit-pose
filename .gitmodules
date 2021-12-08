@@ -1,3 +1,3 @@
-[submodule "dependencies/libuv"]
-	path = dependencies/libuv
+[submodule "Desktop/VulkanTrackingApp/dependencies/libuv"]
+	path = Desktop/VulkanTrackingApp/dependencies/libuv
 	url = https://github.com/libuv/libuv.git

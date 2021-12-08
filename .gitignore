@@ -1,0 +1,7 @@
+dependencies
+out
+.vscode
+.vs
+.gradle
+build
+.idea

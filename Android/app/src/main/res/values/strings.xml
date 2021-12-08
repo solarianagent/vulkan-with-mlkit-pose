@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VulkanTracking</string>
+    <string name="right_elbow_position">Position of Right Elbow is x:%1$f y:%2$f</string>
+    <string name="right_thumb_position">Position of Right Thumb is x:%1$f y:%2$f</string>
+    <string name="right_wrist_position">Position of Right Wrist is x:%1$f y:%2$f</string>
+    <string name="camera_permissions_not_given">Permission for Camera not give by user.</string>
+    <string name="detection_not_started">Pose Detection Not Started</string>
+</resources>
